@@ -1,0 +1,6 @@
+{
+    "userAgent": "xero-node-console",
+    "consumerKey": "xxxxxxxxxx",
+    "consumerSecret": "xxxxxxxxxxxxxxx",
+    "privateKeyPath": "./privatekey.pem"
+}
